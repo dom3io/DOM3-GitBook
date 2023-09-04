@@ -2,7 +2,7 @@
 description: '🔗 DOM3 Modus Operandi: Bridging the Future 🔗'
 ---
 
-# DOM3 Modus Operandi
+# 🌐 DOM3 Modus Operandi
 
 🌐 **Seamless Blockchain Integration:** DOM3 isn't just about one blockchain. We're about connecting the dots. From Ethereum to every EVM compatible Smart Chain, we ensure a seamless experience for all participants.
 

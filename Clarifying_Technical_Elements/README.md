@@ -2,7 +2,7 @@
 description: Navigating the Nuances of Next-Gen Tech
 ---
 
-# 🟦 Clarifying Technical Elements
+# 💡 Clarifying Technical Elements
 
 #### **🌍 Web3**
 
