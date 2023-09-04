@@ -1,22 +1,21 @@
 # 📖 Table of Contents
 
-* :information\_source:**Introduction**
-* :bulb:**Clarifying Technical Elements**
-* 🔗 Leveraging Axelar
-* 🚀 Harnessing the Multifaceted Potential of Blockchain
-* 🌍 Worldwide Raffles
-* 🛡️ Trust and Transparency
-* 💡 Challenges & Innovations
-* :globe\_with\_meridians: **DOM3 Modus Operandi**
-* 🌟 Distinctive Features
-* 🧭 Strategic Directions
-* 🏗️ **Robust Business Framework**
-  * Building Bridges with DOM3
-  * Revenue Streams
-  * Raffles: The Heartbeat of DOM3
-  * Referral Program: Expanding Our Community
-  * Strategic Partnerships: Collaborating for Success
-  * And More: Exploring New Horizons
-* :earth\_africa: **Emerging Market Dynamics**
-* 🚀 **Join Our Expedition**
-* 🎯 **In Summation**
+* :information\_source: [**Introduction**](<README (1).md>)
+* :bulb:[**Clarifying Technical Elements**](Clarifying\_Technical\_Elements/)
+* 🔗 [Leveraging Axelar](Leveraging\_Axelar/)
+* 🚀 [Harnessing the Multifaceted Potential of Blockchain](Harnessing\_Potential/)
+* 🌍 [Worldwide Raffles](Worldwide\_Raffles/)
+* 🛡️ [Trust and Transparency](Trust\_and\_Transparency/)
+* 💡 [Challenges & Innovations](Challenges\_Innovations/)
+* :globe\_with\_meridians: [**DOM3 Modus Operandi**](DOM3\_Operandi/)
+* 🌟 [Distinctive Features](Distinctive\_Features/)
+* 🧭 [Strategic Directions](Strategic\_Directions/)
+* 🏗️ [**Robust Business Framework**](robust\_framework/)
+  * [Diversified Revenue Streams](robust\_framework/diversified-revenue-streams.md)
+  * [Raffle Ticket Sales](robust\_framework/raffle-ticket-sales.md)
+  * [Referral Bonuses](robust\_framework/referral-bonuses.md)
+  * [Strategic Partnerships : Collaborating for Success](robust\_framework/strategic-partnerships.md)
+  * [And More: Exploring New Horizons](robust\_framework/and-more-....md)
+* :earth\_africa: [**Emerging Market Dynamics**](Emerging\_Market\_Dynamics/)
+* 🚀 [**Join Our Expedition**](Join\_Expedition/)
+* 🎯 [**In Summation**](In\_Summation/)
