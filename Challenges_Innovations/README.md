@@ -4,14 +4,10 @@ description: 🌍 Global Real Estate Challenges & Solutions
 
 # Challenges & Innovations
 
-***
-
 #### 🚫 **Problem**
 
 **Constricted Reach in Global Real Estate Markets**\
 Traditional property raffles often suffer from a lack of transparency, making it difficult for potential participants to trust the process. Moreover, the vast majority of cryptocurrency holders miss out on opportunities to leverage their assets in these markets.
-
-***
 
 #### ✅ **Solution by DOM3**
 
