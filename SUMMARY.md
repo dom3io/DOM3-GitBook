@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [ℹ Introduction](README.md)
 * [Clarifying Technical Elements](Clarifying\_Technical\_Elements/README.md)
 * [Leveraging Axelar](Leveraging\_Axelar/README.md)
 * [Harnessing Potential of Blockchain](Harnessing\_Potential/README.md)
