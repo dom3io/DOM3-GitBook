@@ -12,7 +12,7 @@
 * 🧭 [Strategic Directions](Strategic\_Directions/)
 * 🏗️ [**Robust Business Framework**](robust\_framework/)
   * [Diversified Revenue Streams](robust\_framework/diversified-revenue-streams.md)
-  * [Raffle Ticket Sales](robust\_framework/raffle-ticket-sales.md)
+  * [Raffle Orb3 Sales](robust\_framework/raffle-orb3-sales.md)
   * [Referral Bonuses](robust\_framework/referral-bonuses.md)
   * [Strategic Partnerships : Collaborating for Success](robust\_framework/strategic-partnerships.md)
   * [And More: Exploring New Horizons](robust\_framework/and-more-....md)

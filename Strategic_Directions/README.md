@@ -1,5 +1,22 @@
 ---
 description: 🌍 Embracing Asset Diversity 🌍
+cover: >-
+  ../.gitbook/assets/jvde1777_A_vast_compass_overlay_adorns_the_city_its_green_arrow_b5a456a8-e92a-4621-94d5-6744bd106ad6.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🔹 Strategic Directions

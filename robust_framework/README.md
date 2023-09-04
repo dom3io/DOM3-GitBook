@@ -1,5 +1,22 @@
 ---
 description: Building Bridges with DOM3 🌉
+cover: >-
+  ../.gitbook/assets/jvde1777_Beneath_the_city_the_bedrock_pulsates_with_a_vibrant_g_7da196d3-c98d-470e-b189-d1f7f5d2126f.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🏗 Robust Business Framework

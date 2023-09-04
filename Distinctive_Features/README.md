@@ -1,5 +1,22 @@
 ---
 description: 🚀 Revolutionizing Referrals 🚀
+cover: >-
+  ../.gitbook/assets/jvde1777_Architectural_gems_of_the_city_come_to_life_illuminate_d6f06cf0-e898-4aa7-9567-70be7f7c45eb.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🔹 Distinctive Features

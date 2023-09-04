@@ -1,8 +1,25 @@
 ---
 description: The DOM3 Way 🌆
+cover: >-
+  ../.gitbook/assets/jvde1777_Ethereal_green_little_light_orbs_waft_out_from_the_cit_3462de98-7274-4bbf-a60a-bc99dde20cec.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Raffle Ticket Sales
+# 2 Raffle Orb3 Sales
 
 In the vast realm of real estate, DOM3 emerges as a beacon of innovation. Gone are the days of tedious paperwork and traditional transactions. Enter the era of blockchain-integrated property ownership:
 

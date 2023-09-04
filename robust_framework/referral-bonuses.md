@@ -1,8 +1,12 @@
 ---
 description: 'Empowering the DOM3 Community: Spread the Word, Reap the Rewards 🗣️'
+cover: >-
+  ../.gitbook/assets/jvde1777_A_robotic_hand_holding_a_transparent_screen_displaying_c491697c-0f19-482c-99c0-c2497750c9df
+  (1).png
+coverY: 0
 ---
 
-# Referral Bonuses
+# 3 Referral Bonuses
 
 In the interconnected world of the digital age, the power of community is unmatched. At DOM3, we recognize and celebrate this collective strength:
 

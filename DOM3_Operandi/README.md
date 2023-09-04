@@ -1,5 +1,22 @@
 ---
 description: '🔗 DOM3 Modus Operandi: Bridging the Future 🔗'
+cover: >-
+  ../.gitbook/assets/jvde1777_The_birds-eye_view_of_the_city_lays_out_a_labyrinth_of_13ee94b6-d893-44a5-a34c-2e073625b7c0.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🌐 DOM3 Modus Operandi
