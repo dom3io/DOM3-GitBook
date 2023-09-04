@@ -1,8 +1,8 @@
 ---
 description: '🌐 DOM3: Pioneering the Future of Real Estate with Blockchain 🌐'
 cover: >-
-  .gitbook/assets/jvde1777_Dawn_over_an_enigmatic_city._Classic_age-old_buildings_1b20691e-b3a9-4872-ab01-0fb6eddc6528.png
-coverY: -21
+  .gitbook/assets/jvde1777_Earth_viewed_from_space_with_digital_chains_surroundin_12293049-32ac-4d44-a003-ee47a6b115f0.png
+coverY: 0
 layout:
   cover:
     visible: true
