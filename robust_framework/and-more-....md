@@ -32,5 +32,3 @@ At DOM3, we don't believe in resting on our laurels. Our vision extends far beyo
 🔄 **Dynamic Adaptability**: The only constant is change. Our business model is fluid, always adapting and responding to the ever-shifting market demands.
 
 Dive deeper with DOM3, where the journey never ends, and every horizon is just a new beginning.
-
-\<!-- 📌 Note: Consider placing an image here that symbolizes exploration, innovation, or a futuristic vision of the real estate market. -->

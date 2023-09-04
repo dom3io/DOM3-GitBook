@@ -33,5 +33,3 @@ In the interconnected world of the digital age, the power of community is unmatc
 💡 **Win-Win**: It's simple math. More referrals mean more rewards for you and a stronger, more vibrant community for all of us.
 
 Join us in shaping the future of real estate. With DOM3, every referral is a step towards a brighter, more inclusive tomorrow.
-
-\<!-- 📌 Note: Consider placing an image or infographic here that visually represents the referral process and the rewards associated with it. -->

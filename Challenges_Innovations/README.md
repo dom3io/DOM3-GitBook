@@ -37,5 +37,3 @@ DOM3 is revolutionizing the real estate raffle landscape. Our platform:
 
 Join us in reshaping the future of real estate raffles!
 
-\<!-- 📌 Note: Consider placing a visual here that contrasts the challenges of traditional real estate with the innovative solutions offered by DOM3. Perhaps a split image showcasing the old vs. the new. -->
-

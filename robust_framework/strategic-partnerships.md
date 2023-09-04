@@ -34,5 +34,3 @@ In the vast expanse of the digital realm, no entity truly stands alone. At DOM3,
 🚀 **Operational Horizon**: With each partnership, our operational landscape expands, bringing in fresh perspectives, tools, and opportunities.
 
 Join the DOM3 journey, where collaboration isn't just a strategy; it's our ethos.
-
-\<!-- 📌 Note: Consider placing an image here that showcases a network of collaborations or a visual representation of diverse partnerships. -->
