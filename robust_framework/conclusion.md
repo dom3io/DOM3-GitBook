@@ -2,7 +2,7 @@
 description: '🌟 DOM3: Beyond Blockchain, Beyond Real Estate 🌟'
 ---
 
-# Conclusion
+# 🔶 Conclusion
 
 At DOM3, our vision transcends the boundaries of blockchain and real estate. We're crafting a legacy:
 

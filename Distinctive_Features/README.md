@@ -2,7 +2,7 @@
 description: 🚀 Revolutionizing Referrals 🚀
 ---
 
-# Distinctive Features
+# 🔹 Distinctive Features
 
 🤝 **Referral System Like No Other:** At DOM3, we believe in the power of community. Our groundbreaking referral system isn't just about bringing more people on board; it's about rewarding those who do. With an intuitive mechanism in place, we ensure that every referral leads to a fair commission distribution.
 

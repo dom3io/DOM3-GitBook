@@ -2,7 +2,7 @@
 description: 🌍 A Universal Raffle Experience Across Blockchains 🌍
 ---
 
-# 🌐 Worldwide Raffles
+# 3⃣ Worldwide Raffles
 
 🌆 Imagine standing on the balcony of a luxurious penthouse in New York, the city lights painting a mesmerizing picture. Shift that vision to the serene sounds of waves at a secluded beach resort in Bali. Or perhaps, visualize the romantic allure of a classic Parisian apartment with views of the Eiffel Tower, the bustling streets of Tokyo from a modern high-rise, or the historic charm of a villa in Tuscany. 🏝️
 

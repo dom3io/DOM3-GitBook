@@ -2,7 +2,7 @@
 description: Building Bridges with DOM3 🌉
 ---
 
-# Robust Business Framework
+# 🏗 Robust Business Framework
 
 In the vast landscape of modern enterprises, DOM3 stands tall, not just as a technological marvel, but as a beacon of strategic brilliance. Our foundation isn't merely laid on the latest tech but is deeply rooted in a meticulously crafted revenue model. Here's a closer look at what makes our business framework truly robust:
 

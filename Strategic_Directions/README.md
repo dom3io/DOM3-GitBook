@@ -2,7 +2,7 @@
 description: 🌍 Embracing Asset Diversity 🌍
 ---
 
-# Strategic Directions
+# 🔹 Strategic Directions
 
 🏡 **More Than Just Real Estate:** At DOM3, we understand the allure of diverse assets. While our primary focus remains on real estate, we've expanded our horizons to include other tangible assets. From luxurious penthouses to high-end vehicles, our platform offers a plethora of opportunities for every investor.
 
