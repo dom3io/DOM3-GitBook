@@ -1,5 +1,5 @@
 ---
-description: Axelar's Cross-Chain Mastery 🌿
+description: Axelar's Cross-Chain Mastery
 ---
 
 # Leveraging Axelar
