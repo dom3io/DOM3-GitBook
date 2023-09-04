@@ -1,8 +1,25 @@
 ---
 description: 'Collaboration: The Heartbeat of Modern Enterprise 🤝'
+cover: >-
+  ../.gitbook/assets/jvde1777_Projected_on_the_citys_facades_are_luminous_green_hand_2e9c9ed7-5f4a-417c-a890-bbdee806f16c.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Strategic Partnerships
+# 4 Strategic Partnerships
 
 In the vast expanse of the digital realm, no entity truly stands alone. At DOM3, we deeply understand this interconnectedness:
 

@@ -4,6 +4,20 @@ cover: >-
   ../.gitbook/assets/jvde1777_A_robotic_hand_holding_a_transparent_screen_displaying_c491697c-0f19-482c-99c0-c2497750c9df
   (1).png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 3 Referral Bonuses

@@ -1,5 +1,22 @@
 ---
 description: Beyond the Horizon with DOM3 🌌
+cover: >-
+  ../.gitbook/assets/jvde1777_A_split_holographic_screen_set_in_a_futuristic_control_1d4dcb77-9462-4cee-9166-ccccdf6857b8.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🟠 And More ...

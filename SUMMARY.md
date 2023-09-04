@@ -13,7 +13,7 @@
   * [🔹 Strategic Directions](Strategic\_Directions/README.md)
 * [🏗 Robust Business Framework](robust\_framework/README.md)
   * [1 Diversified Revenue Streams](robust\_framework/diversified-revenue-streams.md)
-  * [2 Raffle Orb3 Sales](robust\_framework/raffle-orb3-sales.md)
+  * [2 Raffle Orb3 Sales](robust\_framework/raffle-ticket-sales.md)
   * [3 Referral Bonuses](robust\_framework/referral-bonuses.md)
   * [4 Strategic Partnerships](robust\_framework/strategic-partnerships.md)
   * [🟠 And More ...](robust\_framework/and-more-....md)
@@ -21,3 +21,4 @@
 * [🌍 Emerging Market Dynamics](Emerging\_Market\_Dynamics/README.md)
 * [🚀 Join Our Expedition](Join\_Expedition/README.md)
 * [🎯 In Summation](In\_Summation/README.md)
+* [Frequently Asked Questions (FAQ)](frequently-asked-questions-faq.md)

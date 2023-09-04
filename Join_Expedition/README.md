@@ -1,5 +1,22 @@
 ---
 description: Why Now is the Moment 🌌
+cover: >-
+  ../.gitbook/assets/jvde1777_The_horizon_expands_revealing_previously_uncharted_ter_93bfe67c-f91f-4c91-9aee-f2c067961ccb.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🚀 Join Our Expedition

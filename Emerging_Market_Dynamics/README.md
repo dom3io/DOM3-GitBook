@@ -1,5 +1,23 @@
 ---
 description: When Titans Converge 🌍
+cover: >-
+  ../.gitbook/assets/jvde1777_A_vast_digital_control_room_inside_the_DOM3_dome._Tran_2d856b08-cf6c-4668-922f-93b2b06a6b73
+  (2).png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🌍 Emerging Market Dynamics
