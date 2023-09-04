@@ -1,0 +1,1 @@
+Beyond integrating various blockchains, **DOM3** utilizes **SBT** to amplify transparency and trust, removing age-old property acquisition barriers. By integrating diverse blockchains and fortified smart contracts, the platform guarantees open, secure, and resistant raffles.

@@ -1,0 +1,6 @@
+- **Web3**: Representing the third era of web development, this is the decentralized future of the internet, focusing on decentralized protocols and diverse digital assets.
+- **Cryptocurrency**: Think of it as digital money, secured by advanced encryption.
+- **Cross-Chain**: Multiple blockchains communicating seamlessly.
+- **Decentralized Raffles**: Win properties through a blockchain-driven lottery.
+- **Soulbound Tokens (SBT)**: Unique tokens representing personal identity or records.
+- **Chainlink's VRF** (Verifiable Random Function) protocol: is a cutting-edge technology that provides a secure and provably fair source of randomness for blockchain applications. It combines on-chain and off-chain components to ensure the generation of random numbers that are verifiable, tamper-resistant, and unbiased. This revolutionary protocol enhances the security and trustworthiness of decentralized raffles and other applications requiring random number generation.

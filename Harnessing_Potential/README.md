@@ -1,0 +1,1 @@
+**DOM3** breaks the chains of single blockchain restrictions, embracing **cross-chain tech** and the unique trust mechanics of **SBT**. By leveraging cross-chain technology, it bridges networks like Ethereum, Binance Smart Chain, and others, paving the way for a more inclusive real estate acquisition model catering to a variety of crypto preferences.

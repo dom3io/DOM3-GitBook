@@ -1,0 +1,1 @@
+To truly harness the power of cross-chain integration, **DOM3** has chosen to collaborate with **Axelar**. Axelar's **General Message Passing (GMP) protocol** enables seamless communication between different blockchains.

@@ -1,0 +1,1 @@
+Imagine a raffle system that’s not confined to one ledger. Participants from varied cryptocurrency backgrounds can indulge in winning real estate properties ranging from urban penthouses in New York to secluded beach resorts in Bali.
