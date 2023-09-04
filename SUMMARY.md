@@ -1,9 +1,9 @@
 # Table of contents
 
 * [ℹ Introduction](README.md)
-* [Clarifying Technical Elements](Clarifying\_Technical\_Elements/README.md)
+* [🟦 Clarifying Technical Elements](Clarifying\_Technical\_Elements/README.md)
 * [Leveraging Axelar](Leveraging\_Axelar/README.md)
-* [Harnessing Potential of Blockchain](Harnessing\_Potential/README.md)
+* [Harnessing the Untapped Potential of Blockchain](Harnessing\_Potential/README.md)
 * [Worldwide Raffles](Worldwide\_Raffles/README.md)
 * [Trust and Transparency](Trust\_and\_Transparency/README.md)
 * [Challenges & Innovations](Challenges\_Innovations/README.md)
