@@ -1,5 +1,22 @@
 ---
 description: Navigating the Nuances of Next-Gen Tech
+cover: >-
+  ../.gitbook/assets/jvde1777_Drawing_closer_to_the_dome_intricate_technical_etching_eeef36c4-2e3e-4e10-89ad-25b550c2c9e6.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 💡 Clarifying Technical Elements

@@ -1,8 +1,25 @@
 ---
 description: 🌍 Global Real Estate Challenges & Solutions
+cover: >-
+  ../.gitbook/assets/jvde1777_Parts_of_the_city_lie_in_shadows_presenting_challenges_8586be34-ddc9-4c18-8353-d0a00694e9bf.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Challenges & Innovations
+# 5⃣ Challenges & Innovations
 
 #### 🚫 **Problem**
 

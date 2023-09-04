@@ -1,5 +1,22 @@
 ---
 description: 🌍 A Universal Raffle Experience Across Blockchains 🌍
+cover: >-
+  ../.gitbook/assets/jvde1777_Gossamer_threads_of_green_sweep_across_the_globe_drawi_4e95326f-14ae-412c-bbec-a803a57a324d.png
+coverY: -67.1060762100927
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 3⃣ Worldwide Raffles

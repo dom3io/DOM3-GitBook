@@ -1,8 +1,25 @@
 ---
 description: 🔗 Redefining Real Estate with Advanced Blockchain Integration 🔗
+cover: >-
+  ../.gitbook/assets/jvde1777_The_futuristic_glasses_dome_illuminates_its_surroundin_3a128e76-6ff3-4d4f-8f6a-4a989a0c1c54.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Trust and Transparency
+# 4⃣ Trust and Transparency
 
 Imagine a world where property acquisition isn't mired in layers of bureaucracy, hidden clauses, or unexpected surprises. DOM3 is turning that vision into reality. 🌟
 

@@ -1,8 +1,25 @@
 ---
 description: 'Cross-Chain Real Estate: The Future is Unified'
+cover: >-
+  ../.gitbook/assets/jvde1777_The_cityscape_starts_to_refract_into_a_shimmering_surf_1f38b702-37fc-4bb8-bf2e-74ead5accddf.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Harnessing the Multifaceted Potential of Blockchain
+# 2⃣ Harnessing the Multifaceted Potential of Blockchain
 
 In the vast landscape of digital innovation, DOM3 stands as a beacon of transformative change. We're not just tapping into the power of blockchain; we're harnessing its uncharted potential, pushing boundaries, and redefining paradigms.
 

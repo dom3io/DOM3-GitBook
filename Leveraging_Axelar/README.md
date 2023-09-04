@@ -1,8 +1,25 @@
 ---
 description: Axelar's Cross-Chain Mastery
+cover: >-
+  ../.gitbook/assets/jvde1777_Ethereal_bridges_of_light_stretch_out_connecting_class_3eac1428-edb3-4ad6-8f56-2118185cc42b.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Leveraging Axelar
+# 1⃣ Leveraging Axelar
 
 Axelar's **General Message Passing (GMP)** protocol enables seamless communication between different blockchains. This means that a developer or platform like DOM3 can call any function on any connected blockchain, ensuring complete composability across the vast Web3 ecosystem.
 
