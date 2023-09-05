@@ -76,7 +76,7 @@ While DOM3 aims to make its platform accessible globally, there might be certain
 
 <summary>🔹 What happens if the sale does not reach its reserve price?</summary>
 
-If a sale does not reach its reserve price, the property may not be awarded through the raffle. In such cases, DOM3 will provide clear communication to participants, and the property might be re-listed for future raffles or alternative sale methods.
+If a sale does not reach its reserve price, the property may not be awarded through the raffle. However, the collected funds will be awarded to a lucky participant. DOM3 will provide clear communication regarding this process. The property might then be re-listed for future raffles or alternative sale methods.
 
 </details>
 
