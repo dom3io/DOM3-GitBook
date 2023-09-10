@@ -1,5 +1,5 @@
 ---
-description: Why Now is the Moment 🌌
+description: Why Now is the Moment
 cover: >-
   ../.gitbook/assets/jvde1777_The_horizon_expands_revealing_previously_uncharted_ter_93bfe67c-f91f-4c91-9aee-f2c067961ccb.png
 coverY: 0
@@ -33,7 +33,7 @@ The world of real estate and blockchain is on the cusp of a transformative chang
 
 At DOM3, we're not just building a platform; we're crafting a universe where dreams of property ownership are realized, where every ticket holds a promise, and where every member is a beacon of change. As we soar to new heights, we want you by our side, shaping this vibrant future together.
 
-🌟 **Ready to embark on this exhilarating journey? Dive in, experience the magic of DOM3, and let's revolutionize real estate together!** 🌟
+**Ready to embark on this exhilarating journey? Dive in, experience the magic of DOM3, and let's revolutionize real estate together!**&#x20;
 
 
 

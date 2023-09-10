@@ -1,5 +1,5 @@
 ---
-description: '🌍 DOM3: The Nexus of Innovation 🌍'
+description: 'DOM3: The Nexus of Innovation'
 cover: >-
   ../.gitbook/assets/jvde1777_A_panoramic_spectacle_unfurls_capturing_the_essence_of_d9ee7c54-05b3-4dab-8864-56f1843dfa9e.png
 coverY: 0
