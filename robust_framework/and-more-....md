@@ -1,5 +1,5 @@
 ---
-description: Beyond the Horizon with DOM3 🌌
+description: Beyond the Horizon with DOM3
 cover: >-
   ../.gitbook/assets/jvde1777_A_split_holographic_screen_set_in_a_futuristic_control_1d4dcb77-9462-4cee-9166-ccccdf6857b8.png
 coverY: 0
@@ -31,4 +31,3 @@ At DOM3, we don't believe in resting on our laurels. Our vision extends far beyo
 
 🔄 **Dynamic Adaptability**: The only constant is change. Our business model is fluid, always adapting and responding to the ever-shifting market demands.
 
-Dive deeper with DOM3, where the journey never ends, and every horizon is just a new beginning.

@@ -1,5 +1,5 @@
 ---
-description: 'Collaboration: The Heartbeat of Modern Enterprise 🤝'
+description: 'Collaboration: The Heartbeat of Modern Enterprise'
 cover: >-
   ../.gitbook/assets/jvde1777_Projected_on_the_citys_facades_are_luminous_green_hand_2e9c9ed7-5f4a-417c-a890-bbdee806f16c.png
 coverY: 0
@@ -33,4 +33,3 @@ In the vast expanse of the digital realm, no entity truly stands alone. At DOM3,
 
 🚀 **Operational Horizon**: With each partnership, our operational landscape expands, bringing in fresh perspectives, tools, and opportunities.
 
-Join the DOM3 journey, where collaboration isn't just a strategy; it's our ethos.

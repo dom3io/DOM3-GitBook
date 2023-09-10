@@ -1,5 +1,5 @@
 ---
-description: '🌟 DOM3: Beyond Blockchain, Beyond Real Estate 🌟'
+description: 'DOM3: Beyond Blockchain, Beyond Real Estate'
 cover: >-
   ../.gitbook/assets/jvde1777_A_trail_of_verdant_footprints_leads_to_the_dome_each_s_8c3cae41-b549-4ae5-87bf-7ac71856bb74.png
 coverY: 0
@@ -21,7 +21,7 @@ layout:
 
 # 🔶 Conclusion
 
-At DOM3, our vision transcends the boundaries of blockchain and real estate. We're crafting a legacy:
+We're crafting a legacy:
 
 🔗 **Resilient Foundations**: Our business model isn't just innovative; it's built to weather storms and stand the test of time.
 
