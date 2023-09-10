@@ -1,5 +1,5 @@
 ---
-description: 'Empowering the DOM3 Community: Spread the Word, Reap the Rewards 🗣️'
+description: 'Empowering the DOM3 Community: Spread the Word, Reap the Rewards'
 cover: >-
   ../.gitbook/assets/jvde1777_A_robotic_hand_holding_a_transparent_screen_displaying_c491697c-0f19-482c-99c0-c2497750c9df
   (1).png
@@ -31,5 +31,3 @@ In the interconnected world of the digital age, the power of community is unmatc
 🌱 **Organic Growth**: Every referral, every new member, strengthens our ecosystem, ensuring that DOM3 continues to flourish and innovate.
 
 💡 **Win-Win**: It's simple math. More referrals mean more rewards for you and a stronger, more vibrant community for all of us.
-
-Join us in shaping the future of real estate. With DOM3, every referral is a step towards a brighter, more inclusive tomorrow.

@@ -1,5 +1,5 @@
 ---
-description: '🔗 DOM3 Modus Operandi: Bridging the Future 🔗'
+description: 'DOM3 Modus Operandi: Bridging the Future'
 cover: >-
   ../.gitbook/assets/jvde1777_The_birds-eye_view_of_the_city_lays_out_a_labyrinth_of_13ee94b6-d893-44a5-a34c-2e073625b7c0.png
 coverY: 0
@@ -29,4 +29,4 @@ layout:
 
 ⚖️ **Chainlink: Fairness Guaranteed:** When it comes to raffle outcomes, impartiality is crucial. That's where Chainlink comes in. As a decentralized oracle network, Chainlink ensures unbiased and fair property raffle outcomes, guaranteeing every participant an equal shot.
 
-🌟 Dive into the world of DOM3, where technology meets trust, and innovation meets integrity. 🌟
+Dive into the world of DOM3, where technology meets trust, and innovation meets integrity.

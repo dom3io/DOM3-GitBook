@@ -1,5 +1,5 @@
 ---
-description: Building Bridges with DOM3 🌉
+description: Building Bridges with DOM3
 cover: >-
   ../.gitbook/assets/jvde1777_Beneath_the_city_the_bedrock_pulsates_with_a_vibrant_g_7da196d3-c98d-470e-b189-d1f7f5d2126f.png
 coverY: 0
@@ -31,4 +31,4 @@ In the vast landscape of modern enterprises, DOM3 stands tall, not just as a tec
 
 💼 **Strategized Revenue Model**: Our sustainability and growth are not by chance. They're the result of a well-thought-out revenue strategy.
 
-Dive deeper, and you'll find that every brick in the DOM3 structure, every line of code, and every strategy is a testament to our commitment to excellence.
+You'll find out that every brick in the DOM3 structure, every line of code, and every strategy is a testament to our commitment to excellence.

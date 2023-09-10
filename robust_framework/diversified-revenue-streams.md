@@ -1,5 +1,5 @@
 ---
-description: The Heartbeat of DOM3 🌍
+description: The Heartbeat of DOM3
 cover: >-
   ../.gitbook/assets/jvde1777_Subtle_overlays_of_market_graphs_and_trends_superimpos_865c36e1-010a-4baf-87c9-373828ef9e69.png
 coverY: 0

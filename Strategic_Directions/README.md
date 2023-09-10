@@ -27,4 +27,4 @@ layout:
 
 🔒 **Trust Amplified with SBT:** Trust is paramount in any transaction. By integrating the unique trust and non-transferability attributes of Soulbound Tokens (SBTs), we've taken real estate transactions to a whole new level of transparency and security.
 
-💡 Dive into a world where diverse assets come to life, blockchain collaborations amplify possibilities, and trust is redefined with SBT. Welcome to the future with DOM3. 💡
+Dive into a world where diverse assets come to life, blockchain collaborations amplify possibilities, and trust is redefined with SBT.
