@@ -25,7 +25,7 @@ layout:
 
 In today's digital age, **DOM3** is at the forefront, revolutionizing the real estate sector. We're not just talking about a minor tweak; we're discussing a transformative **on-chain property raffle system**.
 
-> 🚀 **Imagine the thrill of potentially winning a prime piece of real estate through an online lottery. Now, couple that with the security and transparency of blockchain technology.** 🚀
+> **Imagine the thrill of potentially winning a prime piece of real estate through an online crypto lottery. Now, couple that with the security and transparency of blockchain technology.**&#x20;
 
 That's the magic **DOM3** is crafting. Our innovative approach ensures that real estate investment is:
 
